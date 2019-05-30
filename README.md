@@ -40,5 +40,3 @@ In order to do this, you **do not** need to create new forks of these projects. 
 - [ ] Research and set up a Graphical User Interface (GUI) Git console. 
 
 - [ ] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
-
-## How Do You Spell "Hoborg"?
